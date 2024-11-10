@@ -30,7 +30,7 @@ The dataset consists of the following files:
 - Further analysis and business strategies could be developed based on these insights.
 
 # Contributors
-Prajesh Tejani
+Varun Sanghani
 
 With this here I have provided PDF file as well for the understanding(Report)
 # Data-Glacier
